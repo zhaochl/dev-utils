@@ -1,1 +1,1 @@
-my linux development setting
+my linux development config and setting
